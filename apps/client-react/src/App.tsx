@@ -30,7 +30,6 @@ function App() {
         Click on the Vite and React logos to learn more
       </p>
 <h1>ankur</h1>
-<p>semle</p>
       <Button />
     </>
   )
