@@ -1,5 +1,5 @@
 #!/bin/bash
-export PATH=$PATH:/home/ubuntu/.nvm/versions/node/v20.5.1/bin
+export PATH=$PATH:/home/ubuntu/.nvm/versions/node/v20.6.0/bin
 
 cd /home/ubuntu/week-12-monorepo-full
 git pull origin master
