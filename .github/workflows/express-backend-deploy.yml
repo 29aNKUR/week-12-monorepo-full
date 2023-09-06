@@ -24,4 +24,4 @@ jobs:
         chmod 600 keyfile
         mkdir -p ~/.ssh
         cp known_hosts ~/.ssh/known_hosts
-        ssh -t -i keyfile ubuntu@ec2-3-81-35-27.compute-1.amazonaws.com "sudo bash /home/ubuntu/week-12-monorepo-full/apps/express-backend/deploy.sh"
+        ssh -t -i keyfile ubuntu@ec2-54-196-54-123.compute-1.amazonaws.com "sudo bash /home/ubuntu/week-12-monorepo-full/apps/express-backend/deploy.sh"
