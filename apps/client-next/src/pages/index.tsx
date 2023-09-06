@@ -10,6 +10,7 @@ export default function Home() {
   return (
     <>
       <main className={`${styles.main} ${inter.className}`}>
+        <h1>asdfsdaf</h1>
        <Button />
       </main>
     </>
